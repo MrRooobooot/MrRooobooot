@@ -1,6 +1,6 @@
-I build and operate production web systems — React/TypeScript front-ends, Node and Python back-ends, deployment and operations. What I publish is checked against real execution — tests, CI, live deployments — with notes on what is verified, what is historical, and what is still unproven.
+I build and operate production web systems — React/TypeScript front-ends, Node and Python back-ends, deployment and operations. What I publish is checked against real execution — tests, CI, live deployments — with notes on what is verified, what is historical, and what is still unproven. Preferred defaults when nothing else dictates: TypeScript on Node, SQLite or Postgres, dependency-light tooling — and as few moving parts as possible.
 
-![JanebiArena — live Persian/RTL storefront](https://raw.githubusercontent.com/MrRooobooot/Janebi-Store/main/docs/screenshots/home-light.png)
+![JanebiArena — live product page (Persian/RTL)](https://raw.githubusercontent.com/MrRooobooot/Janebi-Store/main/docs/screenshots/product-page-light.png)
 
 ## Featured Projects
 
@@ -8,7 +8,7 @@ I build and operate production web systems — React/TypeScript front-ends, Node
 - **[quant-research-lab](https://github.com/MrRooobooot/quant-research-lab)** — falsification-first research: fee-wall analysis, walk-forward ML that failed to beat costs, out-of-sample replays, and a documented correction chain of its own findings. The negative result is the deliverable; paper trading only.
 - **[ikco-profile-harvester](https://github.com/MrRooobooot/ikco-profile-harvester)** — single-file Python harvester for a public product catalogue behind an F5 WAF: bounded pacing, cooldowns on blocks, resume-safe runs, structured JSON output.
 - **[shimi-app](https://github.com/MrRooobooot/shimi-app)** — Telegram Mini Apps plus a Cloudflare Worker running a channel bot's webhook: quiz and planner pages, PDF study assets, KV-backed class bookings; pages served from GitHub Pages.
-- **[novin-khodro](https://github.com/MrRooobooot/novin-khodro)** — car-dealership web platform with zero runtime dependencies: ~15k lines of vanilla JS/CSS plus a purpose-built, npm-free test framework (475 checks, ~0.5 s); sanitized snapshot, not publicly served.
+- **[novin-khodro](https://github.com/MrRooobooot/novin-khodro)** — car-dealership web platform with zero runtime dependencies: ~15k lines of vanilla JS, CSS, and HTML plus a purpose-built, npm-free test framework (475 checks, ~0.5 s); sanitized snapshot, not publicly served.
 
 ## How I Work
 
